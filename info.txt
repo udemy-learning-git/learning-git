@@ -2,3 +2,4 @@ Commit #18 Squash local commit 1
 Commit #19 Squash local commit 2
 Commit #20 Squash local commit 3
 Commit #21 Squash local commit 4
+Commit #22 local commit to test git tag feature
